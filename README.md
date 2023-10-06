@@ -21,7 +21,7 @@ Check back later and maybe it will be different.
 [![Ko-Fi](https://cdn.discordapp.com/attachments/1022323379535085628/1159601397310947418/image.png?ex=65319df5&is=651f28f5&hm=1146b30c7163e5e304f6e3dce7ec922b532c458620325a2a5e2e96a089b69725&)](https://ko-fi.com/HellHarbor)
 
 ### Hell Harbor Social Media
-[![Social Media](https://media.discordapp.net/attachments/1022323379535085628/1159652644856545300/hhe_social.png?ex=6531cdaf&is=651f58af&hm=0bd665ba774298552d973139a889a21bd3c36be1ec8f4137329c8e364af191c0&=&width=484&height=64)](https://hellharbor.com/error/420.html)
+[![Social Media](https://media.discordapp.net/attachments/1022323379535085628/1159652644856545300/hhe_social.png?ex=6531cdaf&is=651f58af&hm=0bd665ba774298552d973139a889a21bd3c36be1ec8f4137329c8e364af191c0&=&width=484&height=64)](https://hellharbor.com/info/social-media.html)
 
 
 ### Hell Harbor Subsidiary Company(s)
@@ -30,6 +30,10 @@ Check back later and maybe it will be different.
 
 #### Infamous Development Studios
 [![InfamousDevStudios.com](https://media.discordapp.net/attachments/1022323379535085628/1159652644617465856/hhe_ids.png?ex=6531cdaf&is=651f58af&hm=a148bebf606df2fd61191919e115e42a06c2c5740948468a19dadfb984f45903&=&width=484&height=64)](https://infamousdevstudios.com)
+
+
+### Hell Harbor Tours & Tickets
+[![Tickets & Tours](https://cdn.discordapp.com/attachments/1022323379535085628/1159749896589557790/image.png?ex=65322842&is=651fb342&hm=5a882b9b4ed1879cc31838ea6c13835e1fc76a3c477cf19395f027a495ce9ff4&)](https://hellharbor.com/error/420.html)
 
 ### © COPYRIGHT 2023
 www.HellHarbor.com All Rights Reserved 
