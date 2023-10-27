@@ -10,7 +10,7 @@ Check back later and maybe it will be different.
 
 [![Live Support](https://cdn.discordapp.com/attachments/1022323379535085628/1159654217510817882/image.png?ex=6531cf26&is=651f5a26&hm=56de1f589a87e4a19c448745a1f8b6342f743c5e6d72e50ca768f0156d56aa8c&)](https://hellharbor.com/error/420.html)
 
-[![Email Directory](https://media.discordapp.net/attachments/1022323379535085628/1159652645087223878/hhe_email.png?ex=6531cdaf&is=651f58af&hm=0f7e4e42aa79f7761e9bd6a12c553e9fce3f28db5d0f76e13ed2a07eef680203&=&width=484&height=64)](https://hellharbor.com/error/420.html)
+[![Email Directory](https://media.discordapp.net/attachments/1022323379535085628/1159652645087223878/hhe_email.png?ex=6531cdaf&is=651f58af&hm=0f7e4e42aa79f7761e9bd6a12c553e9fce3f28db5d0f76e13ed2a07eef680203&=&width=484&height=64)](https://hellharbor.com/info/email-directory.html)
 
 ### Hell Harbor Discord Server
 
@@ -33,7 +33,7 @@ Check back later and maybe it will be different.
 
 
 ### Hell Harbor Tours & Tickets
-[![Tickets & Tours](https://cdn.discordapp.com/attachments/1022323379535085628/1159749896589557790/image.png?ex=65322842&is=651fb342&hm=5a882b9b4ed1879cc31838ea6c13835e1fc76a3c477cf19395f027a495ce9ff4&)](https://hellharbor.com/error/420.html)
+[![Tickets & Tours](https://cdn.discordapp.com/attachments/1022323379535085628/1159749896589557790/image.png?ex=65322842&is=651fb342&hm=5a882b9b4ed1879cc31838ea6c13835e1fc76a3c477cf19395f027a495ce9ff4&)](https://hellharbor.com/info/touring-and-tickets.html)
 
-### © COPYRIGHT 2023
+### © COPYRIGHT 2018 - 2023
 www.HellHarbor.com All Rights Reserved 
