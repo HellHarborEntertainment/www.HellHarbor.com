@@ -1,10 +1,13 @@
  ![](https://cdn.discordapp.com/attachments/1022323379535085628/1159594280902463591/image.png?ex=65319754&is=651f2254&hm=714a1eab12f714594339c2b750d60d08bbe19be1167a1b21c65b09aaae9a4dd7&)
 
 **About Hell Harbor Entertainment**
+
 Hell Harbor Entertainment is an independent entertainment company located out of Grays Harbor County, Washington.  The company originally formed in 2018 as the independent record label Dab & Stab Records however the company eventually began branching out into film/television production in 2020 which is when it had undergone it's shift to the new brand name to Hell Harbor Entertainment.  
 
 
 **What We Do** 
+
+
 `Booking Agency`
 Hell Harbor Entertainment's Booking Department handles the process of negotiating performance contracts and approaching promoters about upcoming gigs for talent represented by the company.  We represent musicians, screen actors, and voice actors. 
 
