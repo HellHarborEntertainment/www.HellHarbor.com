@@ -20,6 +20,8 @@ Check back later and maybe it will be different.
 
 [![Ko-Fi](https://cdn.discordapp.com/attachments/1022323379535085628/1159601397310947418/image.png?ex=65319df5&is=651f28f5&hm=1146b30c7163e5e304f6e3dce7ec922b532c458620325a2a5e2e96a089b69725&)](https://ko-fi.com/HellHarbor)
 
+[![Merchandise](https://cdn.discordapp.com/attachments/1022323379535085628/1167308679809351721/image.png?ex=654da7ec&is=653b32ec&hm=8d1987bb8932059bd3453f543366d5da5f459b03707a32861f1f25f9850b1728&)](https://nav.hellharbor.com/apparel)
+
 ### Hell Harbor Social Media
 [![Social Media](https://media.discordapp.net/attachments/1022323379535085628/1159652644856545300/hhe_social.png?ex=6531cdaf&is=651f58af&hm=0bd665ba774298552d973139a889a21bd3c36be1ec8f4137329c8e364af191c0&=&width=484&height=64)](https://hellharbor.com/info/social-media.html)
 
