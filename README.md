@@ -1,8 +1,32 @@
  ![](https://cdn.discordapp.com/attachments/1022323379535085628/1159594280902463591/image.png?ex=65319754&is=651f2254&hm=714a1eab12f714594339c2b750d60d08bbe19be1167a1b21c65b09aaae9a4dd7&)
 
-The Hell Harbor Entertainment Website Is Under Construction
+**About Hell Harbor Entertainment**
+Hell Harbor Entertainment is an independent entertainment company located out of Grays Harbor County, Washington.  The company originally formed in 2018 as the independent record label Dab & Stab Records however the company eventually began branching out into film/television production in 2020 which is when it had undergone it's shift to the new brand name to Hell Harbor Entertainment.  
 
-Check back later and maybe it will be different. 
+
+**What We Do** 
+`Booking Agency`
+Hell Harbor Entertainment's Booking Department handles the process of negotiating performance contracts and approaching promoters about upcoming gigs for talent represented by the company.  We represent musicians, screen actors, and voice actors. 
+
+`Game & Software Development`
+Hell Harbor Entertainment is the parent company of Infamous Development Studios. The studio itself is composed of several creative minded developers from around the globe with a passion for roleplay gaming. 
+
+`Media Distribution`
+Hell Harbor Entertainment's Distribution Department handles the process of promoting and distributing all productions produced by the company that are completed and ready for marketing. 
+
+`Media Production`
+Hell Harbor Entertainment's Production Department handles the production of new content for public consumption. This ranges from Book/Comic, Film/Television, Music, and Sports Entertainment productions created by the company. 
+
+`Record Label`
+Hell Harbor Entertainment is the parent company of the Record Label "Dab & Stab Records" which handles the production and management of all Music Recording Artists under contract with the company. 
+
+`Sports Entertainment`
+Hell Harbor Entertainment is the producing agency of Badass Backyard Wrestling (BBW) an independent professional wrestling entertainment company.
+
+`Talent Management`
+Hell Harbor Entertainment's capable entertainment managers will help guide your career while employed with the company is the direct liaison between talent on our roster and the company executives. We manage musicians, screen actors, and voice actors.
+
+
 
 ## Navigation Menu
 
