@@ -9,24 +9,31 @@ Hell Harbor Entertainment is an independent entertainment company located out of
 
 
 `Booking Agency`
+
 Hell Harbor Entertainment's Booking Department handles the process of negotiating performance contracts and approaching promoters about upcoming gigs for talent represented by the company.  We represent musicians, screen actors, and voice actors. 
 
 `Game & Software Development`
+
 Hell Harbor Entertainment is the parent company of Infamous Development Studios. The studio itself is composed of several creative minded developers from around the globe with a passion for roleplay gaming. 
 
 `Media Distribution`
+
 Hell Harbor Entertainment's Distribution Department handles the process of promoting and distributing all productions produced by the company that are completed and ready for marketing. 
 
 `Media Production`
+
 Hell Harbor Entertainment's Production Department handles the production of new content for public consumption. This ranges from Book/Comic, Film/Television, Music, and Sports Entertainment productions created by the company. 
 
 `Record Label`
+
 Hell Harbor Entertainment is the parent company of the Record Label "Dab & Stab Records" which handles the production and management of all Music Recording Artists under contract with the company. 
 
 `Sports Entertainment`
+
 Hell Harbor Entertainment is the producing agency of Badass Backyard Wrestling (BBW) an independent professional wrestling entertainment company.
 
 `Talent Management`
+
 Hell Harbor Entertainment's capable entertainment managers will help guide your career while employed with the company is the direct liaison between talent on our roster and the company executives. We manage musicians, screen actors, and voice actors.
 
 
