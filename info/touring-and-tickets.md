@@ -22,6 +22,6 @@ Thank you for choosing Hell Harbor Entertainment and Dab & Stab Records for your
 We can't wait to see you at our next event!
 
 ## Show Schedule
-You can view our current show and tour schedule and purchase tickets by visiting our official [Ticketleap Events Page.](https://www.ticketleap.events/events/hellharbor) If you are interested in booking a Hell Harbor event [contact our booking department](https://hellharbor.com/info/email-directory.md). 
+You can view our current show and tour schedule and purchase tickets by visiting our official [Ticketleap Events Page.](https://www.ticketleap.events/events/hellharbor) If you are interested in booking a Hell Harbor event [contact our booking department](https://hellharbor.com/info/email-directory.html). 
 
 [![Browse Show Schedule](https://cdn.discordapp.com/attachments/1022323379535085628/1167677116083622010/b4be6147-6c9c-4ae4-8dce-ee5738cb5fe9.png?ex=654eff0e&is=653c8a0e&hm=8caa9f3027f644e9d3064e4bd6aa5dc5038c2c9b4300eafcf3b1e8cad0956a43&)](https://www.ticketleap.events/events/hellharbor)
