@@ -52,7 +52,7 @@ Hell Harbor Entertainment's capable entertainment managers will help guide your 
 
 ### Hell Harbor Entertainment Shop
 
-[![Ko-Fi](https://cdn.discordapp.com/attachments/1022323379535085628/1159601397310947418/image.png?ex=65319df5&is=651f28f5&hm=1146b30c7163e5e304f6e3dce7ec922b532c458620325a2a5e2e96a089b69725&)](https://ko-fi.com/HellHarbor)
+[![Ko-Fi](https://cdn.discordapp.com/attachments/1022323379535085628/1159601397310947418/image.png?ex=65319df5&is=651f28f5&hm=1146b30c7163e5e304f6e3dce7ec922b532c458620325a2a5e2e96a089b69725&)](https://ko-fi.com/HellHarbor/shop)
 
 [![Merchandise](https://cdn.discordapp.com/attachments/1022323379535085628/1167308679809351721/image.png?ex=654da7ec&is=653b32ec&hm=8d1987bb8932059bd3453f543366d5da5f459b03707a32861f1f25f9850b1728&)](https://nav.hellharbor.com/apparel)
 
