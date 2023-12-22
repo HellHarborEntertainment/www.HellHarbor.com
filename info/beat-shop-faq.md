@@ -2,7 +2,7 @@
 ## Frequently Asked Questions
 
 #### What are the differences between the various types of available beat licenses?
-We offer several various licensing options for all instrumentals offered for sale by our producers. The license types we offer are: Basic, Premium, Unlimited, and Exclusive licenses. There are several important differences between these licenses, and it is highly recommended to thoroughly read through them before purchasing instrumentals from our shop. You can find the complete information on the different licenses available by [clicking here.](https://www.hellharbor.com/info/beat-licenses.html) 
+We offer several various licensing options for all instrumentals offered for sale by our producers. The license types we offer are: Basic, Premium, Unlimited, and Exclusive licenses. There are several important differences between these licenses, and it is highly recommended to thoroughly read through them before purchasing instrumentals from our shop. You can find the complete information on the different licenses available by [clicking here.](https://www.hellharbor.com/info/beat-licenses.html){.content-link}
 
 #### What if I stream/sell more than my lease allows?
 If you sell over the terms in your original lease than you can upgrade your license with a discount by contacting us via email. Reach out to us at `support@HellHarbor.com` for upgrade support.
