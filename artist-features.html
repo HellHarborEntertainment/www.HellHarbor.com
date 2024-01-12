@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="The official website for the independent entertainment production company known as Hell Harbor Entertainment.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hell Harbor Entertainment</title>
+    <link rel="stylesheet" href="index.css">      
+</head>
+<body>
+    <script src="node_modules/showdown/dist/showdown.min.js"></script>
+    <style>
+        /* Custom CSS styles */
+        header img { 
+          margin-bottom: 10px;
+        }
+        .content {
+          color: white; /* Change to the desired text color */;
+          list-style-position: outside;
+          text-align: center;
+        }
+
+        .content :link {
+          color: red !important;
+        }
+
+        .content img {
+      max-width: 100%;
+      max-height: 200px; /* Adjust the desired height */
+    }
+      </style>
+  <script src="https://cdn.jsdelivr.net/npm/showdown@1.9.1/dist/showdown.min.js"></script>
+</head>
+<body>
+
+    <header>
+        <img src="logo_main.png" alt="Hell Harbor Entertainment Logo" style="width: 200px; height: 200px;">
+        <h1>WELCOME TO HELL HARBOR!</h1>
+        <h2>Grays Harbor County, Washington</h2>
+        <div class="divider"></div>
+    </header>
+        <section id="navmenu">
+          <nav>
+            <li><a href="https://hellharbor.com/index.html">HOME</a></li>
+            <li><a href="https://hellharbor.com/contact.html">CONTACT</a></li>
+            <li><a href="https://hellharbor.com/shop.html">SHOP</a></li>
+            <li><a href="https://hellharbor.com/subsidiaries.html">SUBSIDIARIES</a></li>
+            <li><a href="https://hellharbor.com/touring-and-tickets.html">TICKETS</a></li>
+          </nav>
+    </section>
+    <div class="content" id="markdownContent"></div>
+    <script>
+      function convertMarkdownToHTML(markdown) {
+        // Use a Markdown parser library like Showdown.js (https://github.com/showdownjs/showdown)
+        var converter = new showdown.Converter();
+        return converter.makeHtml(markdown);
+      }
+  
+      // Fetch the Markdown content from the URL
+      fetch('https://raw.githubusercontent.com/HellHarborEntertainment/www.HellHarbor.com/main/info/artist-features.md')
+        .then(response => response.text())
+        .then(markdown => {
+          // Convert the Markdown content to HTML
+          var html = convertMarkdownToHTML(markdown);
+  
+          // Insert the HTML content into the page
+          document.getElementById('markdownContent').innerHTML = html;
+        })
+        .catch(error => {
+          console.error('Error:', error);
+        });
+    </script>
+ 
+ <footer>
+  <p>&copy; 2018-2024 HELL HARBOR ENTERTAINMENT ALL RIGHTS RESERVED</p>
+</footer>
+
+</body>
+  </html>
