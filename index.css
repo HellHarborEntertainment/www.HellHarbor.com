@@ -99,3 +99,29 @@ nav {
     margin-bottom: 120px;
 }
 
+
+
+iframe {
+  opacity: 0.6589; /* Set the opacity here */
+}
+
+/* Existing CSS styles... */
+
+/* Adjustments for mobile devices */
+@media only screen and (max-width: 600px) {
+  section#navmenu {
+      width: 100%; /* Make the navmenu take the full width of the viewport */
+  }
+
+  section#navmenu nav {
+      display: flex;
+      flex-direction: column;
+      align-items: center; /* Center the items horizontally */
+  }
+
+  section#navmenu nav li {
+      margin-bottom: 10px; /* Add some spacing between the menu items for better readability */
+  }
+}
+
+/* Existing CSS styles... */

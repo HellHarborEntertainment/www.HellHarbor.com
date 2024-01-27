@@ -14,4 +14,4 @@ Yes. All tags will be removed except for one in the intro which will be lower in
 To initiate negotiations for changes in royalties, you will need to reach out via email to `support@HellHarbor.com` and a member of our team will reach out to you from there. 
 
 #### How do I get an Exclusive License for a beat? 
-In order to obtain an Exclusive License for a beat, you will need to reach out via email to `support@HellHarbor.com` and a member of our team will reach out to you from there. 
+In order to obtain an Exclusive License for a beat, you will need to reach out via email to `support@HellHarbor.com` and a member of our team will reach out to you from there. Our support staff will put you contact with our team of producers who will work with you to create a customized exclusive instrumental specifically for your project. 

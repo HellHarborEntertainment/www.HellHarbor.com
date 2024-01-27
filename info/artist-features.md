@@ -13,9 +13,9 @@ A non-exclusive lease authorizes you (the licensee) the ability to distribute an
 An exclusive license authorizes you (the licensee) the ability to distribute an unlimited number of digital & physical sales of a track featuring a hook/verse from one of our featured artists. You are also entitled to 100% of all writer/publishing royalties from sales. The featured artist is also prohibited from reutilizing their verse at any time on any future projects unless otherwise negotiated at time of sale or at a later date.
 
 ## Where To Purchase
-- ### [JesterTheRyda Exclusive Feature](https://ko-fi.com/s/bbcb21b0d6)
-- ### [JesterTheRyda Non-Exclusive Feature](https://ko-fi.com/s/424954128a)
-- ### [Poltergyst Exclusive Feature](https://ko-fi.com/s/78544c7085)
-- ### [Poltergyst Non-Exclusive Feature](https://ko-fi.com/s/895ddc10ce)
-- ### [Funky Skunky Exclusive Feature](https://ko-fi.com/s/3ef067f0b4)
-- ### [Funky Skunky Non-Exclusive Feature](https://ko-fi.com/s/0db443a604)
+- [JesterTheRyda Exclusive Feature](https://ko-fi.com/s/bbcb21b0d6)
+- [JesterTheRyda Non-Exclusive Feature](https://ko-fi.com/s/424954128a)
+- [Poltergyst Exclusive Feature](https://ko-fi.com/s/78544c7085)
+- [Poltergyst Non-Exclusive Feature](https://ko-fi.com/s/895ddc10ce)
+- [Funky Skunky Exclusive Feature](https://ko-fi.com/s/3ef067f0b4)
+- [Funky Skunky Non-Exclusive Feature](https://ko-fi.com/s/0db443a604)
